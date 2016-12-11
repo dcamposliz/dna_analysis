@@ -60,6 +60,13 @@ lean over and put your lips on mine <3
 
  - [BioPython Basics - Duke University](http://people.duke.edu/~ccc14/pcfb/biopython/BiopythonBasics.html)
 
+ - [Introduction to Python for Biologists - NYU](https://www.youtube.com/watch?v=l8wLaoEGbUI)
+
+ - [Introduction to BioPython - NIAID Bioinformatics](https://www.youtube.com/watch?v=r66YCsA4YqM)
+
+ - [Introduction to Biopython for Scientists - NIAID Bioinformatics](https://www.youtube.com/watch?v=2JMfq-xiFb8&t=0s)
+
+ - [Introduction to Biopython - IIT Bombay](https://www.youtube.com/watch?v=t0Z0FP8t0_4)
 ---
 
 # Learn Git
